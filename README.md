@@ -8,7 +8,8 @@
 
 **这是曹宇学长做的latex模板，非官方的。感谢曹宇前辈的工作和分享**
 
-原始链接：https://github.com/tsaoyu/WHUT-LaTeX-bachelor。感谢曹宇前辈的工作和分享。我是在https://www.latexstudio.net/archives/6530.html  这个链接上下载的。
+原始链接：https://github.com/tsaoyu/WHUT-LaTeX-bachelor。
+感谢曹宇前辈的工作和分享
 
 我在使用的过程中，遇到了一点点的小问题，特在此记录且分享出来。我本人也只是简单的使用Latex，对Latex的各种原理也不了解，以下的分享仅仅是我自己在搜集整理后，在自己的条件下可行的解决方法。不保证完全正确，仅仅是分享出来，为后来者节约一些时间。答辩完，修改时间比较短，都是一些能用就行的方案，没有仔细看。
 
